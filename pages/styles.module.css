@@ -1,0 +1,22 @@
+.status {
+    color:black;
+   
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.boardrow {
+    background-color: white;
+    
+    }
+
+.square {
+    border: 1px solid white;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    cursor: pointer;
+    height: 50px;
+    width: 50px;
+}
